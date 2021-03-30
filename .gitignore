@@ -1,0 +1,5 @@
+# files and folders i need to be in gitignore 
+/nbproject
+build.xml
+manifest.mf
+  
